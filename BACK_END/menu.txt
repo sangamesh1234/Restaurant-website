@@ -1,0 +1,65 @@
+[
+   {
+      "restaurantId":"609e19d796ac3c72353a714c",
+      "itemPrice":89,
+      "itemName":"Gobi Manchurian",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":true
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714c",
+      "itemPrice":100,
+      "itemName":"Chicken Manchurian",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":false
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714c",
+      "itemPrice":110,
+      "itemName":"Paneer Tikka",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":true
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714b",
+      "itemPrice":99,
+      "itemName":"Veg Burger",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":true
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714b",
+      "itemPrice":499,
+      "itemName":"Chicken Bucket",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":false
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714b",
+      "itemPrice":150,
+      "itemName":"Paneer Zinger",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":true
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714d",
+      "itemPrice":150,
+      "itemName":"Paneer Zinger",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":true
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714d",
+      "itemPrice":499,
+      "itemName":"Chicken Bucket",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":false
+   },
+   {
+      "restaurantId":"609e19d796ac3c72353a714d",
+      "itemPrice":99,
+      "itemName":"Veg Burger",
+      "itemDescription":"Deep Fried cauli flower florets tossed in pungent spices",
+      "isVeg":true
+   },
+]
